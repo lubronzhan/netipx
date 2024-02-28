@@ -1,6 +1,6 @@
-module go4.org/netipx
+module github.com/lubronzhan/netipx
 
-go 1.18
+go 1.22
 
 require (
 	github.com/dvyukov/go-fuzz v0.0.0-20210103155950-6a8e9d1f2415

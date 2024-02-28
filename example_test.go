@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/netip"
 
-	"go4.org/netipx"
+	"lubronzhan/netipx"
 )
 
 func ExampleIPSet() {
